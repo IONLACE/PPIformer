@@ -17,4 +17,4 @@ hydra-core
 
 # Install mutils and PPIRef
 mutils @ git+https://github.com/anton-bushuiev/mutils.git@main
-ppiref @ git+https://github.com/anton-bushuiev/PPIRef.git@main
+ppiref @ git+https://github.com/IONLACE/PPIRef.git@main
